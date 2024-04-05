@@ -4,7 +4,7 @@ body {
   }
   
   a {
-    color: #885df1;
+    color: #B3C8CF;
   }
   
   .weather-app {
@@ -31,7 +31,7 @@ body {
   }
   
   .search-form-button {
-    background: #885df1;
+    background: #B3C8CF;
     padding: 15px 30px;
     border: none;
     font-size: 16px;
@@ -63,7 +63,7 @@ body {
   }
   
   .weather-app-details strong {
-    color: #f65282;
+    color: #453F78;
   }
   
   .weather-app-temperature-container {
